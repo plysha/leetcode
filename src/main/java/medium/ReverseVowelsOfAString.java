@@ -1,4 +1,4 @@
-package easy;
+package medium;
 
 //https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/
 public class ReverseVowelsOfAString {
