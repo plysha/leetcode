@@ -6,6 +6,7 @@ import java.util.Stack;
 
 public class BinaryTreeInorderTraversalRecursive {
     public List<Integer> inorderTraversal(TreeNode root) {
+        //left node right
         List<Integer> result = new ArrayList<>();
         traversal(root, result);
         return result;
